@@ -1,7 +1,7 @@
 # Notionary - Elegant Notes for Android 📱✨
 
 <div align="center">
-  <img src="screenshots/logo.png" alt="Notionary Logo" width="200"/>
+  <img src="screenshots/icon.png" alt="Notionary Logo" width="200"/>
   
   [![GitHub license](https://img.shields.io/github/license/DIP-SARKER/Notionary?color=blue)](LICENSE)
   ![Android Version](https://img.shields.io/badge/Android-8.0%2B-brightgreen)
@@ -15,19 +15,26 @@
 ---
 
 ## 📱 Screenshots
-| Home Screen | Note Editing | Menu | Features | Dark Mode |
-|-------------|--------------|------------|----------|----------|
-| ![Home Screen](screenshots/home_screen.png) | ![Note Editing](screenshots/home_screen.png) | ![Menu](screenshots/home_screen.png) | ![Features](screenshots/home_screen.png) | ![Dark Mode](screenshots/home_screen.png) |
+| Home Screen | Note Editing | Menu | Features | Reading Mode | Dark Mode |
+|-------------|--------------|------------|----------|----------|----------|
+| ![Home Screen](screenshots/home.png) | ![Note Editing](screenshots/editnote.png) | ![Menu](screenshots/menu.png) | ![Features](screenshots/features.png) | ![Reading Mode](screenshots/readpdf.png) | ![Dark Mode](screenshots/darkmode.png) |
 
 ---
 
-## ✨ Key Features
-- **Rich Text Editing** - Bold, italic, lists, and more with intuitive formatting
-- **Smart Organization** - Tags, categories, and color-coding for effortless sorting
-- **Dark/Light Themes** - Choose your perfect working environment
-- **Instant Search** 🔍 - Find notes instantly with powerful search filters
-- **Markdown Support** - For coders and technical writers
-- **Minimalist Design** - Clean interface focused on your content
+## 🚀 Key Features
+- **🧠 Rich Note Editing** - Create and edit notes with rich formatting(Bold, italic, and so many) options to organize your thoughts beautifully.
+
+- **🗂️ Category-based Smart Organization** - Easily sort and filter your notes using categories for a more structured note-taking experience.
+
+- **🌗 Dark Mode Support** - A sleek, eye-friendly dark theme for comfortable usage in low-light environments.
+
+- **🔍 Smart Instant Search** - Quickly find notes using an intuitive search feature that works in real time.
+
+- **📋 Interactive UI** - A fluid and modern user interface designed for speed and usability, with SVG support and subtle animations.
+
+- **🧩 Social Sign-In Integration** - Seamlessly sign in with a social media account and stay synced across devices.
+
+- **🧑‍💻 Markdown Support** - Elevate your note-taking with full Markdown syntax support designed with technical persons in mind.
 
 ---
 
